@@ -4,6 +4,7 @@
 
 - 🌱 Atualmente aluna da Labenu.
 - 📫 Contate-me no email: tainasoares10eler@gmail.com
+<p>🔗 <a href="https://offbeat-record.surge.sh/" target="_blank"> PortFólio </a>  </p>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TainaSoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
